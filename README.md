@@ -1,2 +1,2 @@
 # Weather-App
-Simple weather app made with React Native (Second official project)
+Simple weather app made with React Native. (Third official project)
